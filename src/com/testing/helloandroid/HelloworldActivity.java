@@ -9,10 +9,6 @@ public class HelloworldActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-        // lets make some more changes
-        //lets make some more changes
-        //ok no lets try to pull this one
-        //ok one last time
-        //ok last time from server
+        // restart1
     }
 }
