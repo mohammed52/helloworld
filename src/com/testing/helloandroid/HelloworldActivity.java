@@ -9,6 +9,7 @@ public class HelloworldActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-        // restart3
+
+        //restart5
     }
 }
