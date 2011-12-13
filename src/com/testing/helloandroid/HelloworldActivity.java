@@ -9,6 +9,9 @@ public class HelloworldActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+        Integer a1 = 10;
+        a1++;
+
 
         //restart6
     }
