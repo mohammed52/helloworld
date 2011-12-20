@@ -14,23 +14,6 @@ public class HelloworldActivity extends Activity {
 
 
         //restart6
-        //restart7
-        //restart8
-        //restart9
-        //restart10
 
-
-        //restart11
-
-      //restart12
-      //restart13
-
-        //restart15
-
-//restart14
-
-        //restart17
-
-//restart16
         }
 }
