@@ -11,15 +11,6 @@ public class HelloworldActivity extends Activity {
         setContentView(R.layout.main);
         Integer a1 = 121;
         a1++;
-
-
-
-//restart16
-
-        //restart6
-//restart7
-//restart8
-//restart9
-        //restart10
+        //commit3
 }
 }
