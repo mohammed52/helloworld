@@ -12,14 +12,5 @@ public class HelloworldActivity extends Activity {
         Integer a1 = 121;
         a1++;
 
-
-
-//restart16
-
-        //restart6
-//restart7
-//restart8
-//restart9
-        //restart10
 }
 }
