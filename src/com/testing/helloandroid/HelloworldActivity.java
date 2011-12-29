@@ -8,8 +8,13 @@ public class HelloworldActivity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
         int asap = 3;
         asap++;
+
+        int a2 = 3;
+        a2++;
+
         setContentView(R.layout.main);
         //commit7
         Integer a1 = 121;
