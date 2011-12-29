@@ -8,6 +8,8 @@ public class HelloworldActivity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        int a2 = 3;
+        a2++;
         setContentView(R.layout.main);
         Integer a1 = 121;
         a1++;
